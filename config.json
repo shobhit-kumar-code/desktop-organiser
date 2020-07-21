@@ -1,0 +1,13 @@
+{
+    "foldersList":["shortcuts","ancient","music","documents","photos","videos","code"],
+
+    "fileExtensions":{   "shortcuts":[".lnk"],
+        "ancient":[],
+        "music":[".mp3",".wav",".ogg"],
+        "documents":[".txt",".pdf",".doc",".docx",".xls",".xlsx",".ppt",".pptx"],
+        "photos":[".jpeg",".jpg",".gif",".png",".psd"],
+        "videos":[".mp4",".flv",".avi"],
+        "code":[".py",".c",".cpp",".js",".java",".css"]
+    },
+    "ancientValue":31536000
+}
