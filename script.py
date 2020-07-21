@@ -3,7 +3,6 @@ from fileFolderMgmt import FileFolderManager
 import json
 import sys
 
-# desktopPath="F:/trystuff/"
 with open("desktopPath.json") as pathToDesktop:
     initSettings=json.loads(pathToDesktop.read())
     desktopPath=initSettings["path"]
